@@ -18,7 +18,8 @@ YouTubers =
 RyanHallYall , MaxVelocityWX , BrandonCopicWx , FreddyMcKinney , johnmckinney4128 , 
 stormrunnermedia , ReedTimmerWx , DanielShawAU , StormChaserBradArnold , tornadopaigeyy , 
 StormChaserTylerKurtz , ConnorCroff , bobpackstormchaser , StormChaserIRL , coreygerkenwx , 
-JakobMcMillin , JenMcMahan , StormChaserJordanHall , StormChaserVince , WxScholl
+JakobMcMillin , JenMcMahan , StormChaserJordanHall , StormChaserVince , WxScholl ,
+Stormchasers24live , tornadotacklers , charliebourdo
 )
 
 ScreenGrids := "1x1,2x1,2x2,3x2,3x3,4x3,4x4,5x4,5x5,6x5,6x6,7x6,7x7,8x7,8x8,9x8,9x9,10x10"
